@@ -2,4 +2,4 @@
 .grunt
 dist
 node_modules
-
+.divshot-cache/
